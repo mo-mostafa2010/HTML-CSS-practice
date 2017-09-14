@@ -1,0 +1,14 @@
+Container
+	background color: #ebebeb
+image
+	border color: #a5a39b
+	
+font
+	"Tim Berners" color: #05adae
+	"Lorem ipsum ..." color: #3b3b3b
+	email color: #fff
+	others: #011530
+	
+email background color: #139f9e
+
+icons background color: #333333
